@@ -38,6 +38,7 @@ class LoginScreen extends StatelessWidget {
       top: Radius.circular(20.0),
     );
 
+
     return FlutterLogin(
       title: "Pics Manager",
       logo: 'assets/images/ecorp.png',

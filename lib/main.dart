@@ -37,6 +37,7 @@ class MyApp extends StatelessWidget {
             // OpenSans is similar to NotoSans but the uppercases look a bit better IMO
             fontFamily: 'OpenSans',
           ),
+
           caption: TextStyle(
             fontFamily: 'NotoSans',
             fontSize: 12.0,
